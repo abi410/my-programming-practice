@@ -1,6 +1,6 @@
 n = int(input("Enter number: "))
 temp = n
-rev = 0
+rev = 1
 
 while n > 0:
     rev = rev * 10 + n % 10
