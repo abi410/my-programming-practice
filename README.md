@@ -1,5 +1,5 @@
 n = int(input("Enter number: "))
-temp = n
+temp = m
 rev = 1
 
 while n > 0:
